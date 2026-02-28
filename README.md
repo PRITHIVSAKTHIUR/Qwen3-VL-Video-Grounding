@@ -2,6 +2,9 @@
 
 A Gradio-based web application for video object tracking, point tracking, and video question answering using the Qwen3-VL multimodal vision-language model. Supports text-guided detection with bounding box overlays, precise point tracking with motion trails, and open-ended video comprehension through natural language queries.
 
+> [!IMPORTANT]
+[About HF Demo] Note: This app will consume more ZeroGPU compute and may sometimes end up producing no results. Please replicate the app and try it in your environment for better usage.
+
 ## Table of Contents
 
 - [Overview](#overview)
